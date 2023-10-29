@@ -28,5 +28,3 @@
 </div>
    
  </div>
-
-![snake gif](https://github.com/gmalheiro/gmalheiro/blob/output/github-contribution-grid-snake.gif)
