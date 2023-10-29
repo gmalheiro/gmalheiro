@@ -26,5 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmalheiro&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmalheiro&layout=compact&langs_count=7&theme=nord"/>
 </div>
+
+![snake gif](https://github.com/gmalheiro/gmalheiro/blob/output/github-contribution-grid-snake.gif)
    
  </div>
