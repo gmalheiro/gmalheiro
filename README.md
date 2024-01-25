@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular,.NET/C#,Node.Js,React**
+- 🌱 I’m currently learning **Angular,.NET**
 
 - 💬 Ask me about **Angular,.NET,SQL(SQLServer)**
 
