@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and .NET**
 
-- 💬 Ask me about **Angular,.NET,SQL(SQLServer)**
+- 💬 Ask me about **Angular,.NET,Java**
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-m-585091220/](https://www.linkedin.com/in/gabriel-m-585091220/)
