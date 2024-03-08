@@ -1,6 +1,6 @@
 <div align = center>
  <div align= center>
-  <h1 align="center">Hi 👋, I'm Gabriel</h1>
+  <h1 align="center">Hi , I'm Gabriel</h1>
 <h3 align="center">A passionate full-stack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Angular and .NET**
